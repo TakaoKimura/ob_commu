@@ -1,0 +1,2 @@
+def printPrimeNumber(n):
+    pass

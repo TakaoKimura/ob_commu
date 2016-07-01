@@ -1,0 +1,5 @@
+package commonization;
+
+class Lecture {
+
+}

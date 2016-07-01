@@ -1,0 +1,5 @@
+package noncomozation;
+
+class Lecture {
+
+}
